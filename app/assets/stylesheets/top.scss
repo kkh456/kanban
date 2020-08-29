@@ -3,10 +3,12 @@
   padding-top: 30px;
   background: #bababa;
   overflow-x: scroll;
+  display: flex;
   .listWrapper {
     display: flex;
     height: 100%;
     align-items: baseline;
+    margin-bottom: 10px;
     .list {
       position: relative;
       background: #e2e4e6;
@@ -65,6 +67,9 @@
         &_link {
           color: #8c8c8c;
         }
+      }
+      .Iine_Button{
+        color: #8c8c8c;
       }
     }
   }

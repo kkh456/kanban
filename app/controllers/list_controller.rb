@@ -1,6 +1,6 @@
 class ListController < ApplicationController
   before_action :set_list, only: %i(edit update destroy)
-
+  
   def new
     @list = List.new
   end
