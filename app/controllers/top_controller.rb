@@ -1,6 +1,9 @@
 class TopController < ApplicationController
   def index
     @lists = List.where(user: current_user).order("created_at ASC")
+    @favorite = Favorite.where(user: current_user)
+    # @list = List.find(params[:id])
+    # @favorite = current_user.favorites.find_by(list_id:  params[:id])
   end
 
   def edit
