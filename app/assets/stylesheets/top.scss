@@ -68,6 +68,14 @@
           color: #8c8c8c;
         }
       }
+      .Iine_Button{
+        .liked{
+          color:red;
+        }
+        .not-liked{
+          color: grey;
+        }
+      }
     }
   }
 }

@@ -27,11 +27,13 @@
             </div>
             <div class="Iine_Button">
               <% if current_user.already_favorited?(list) %>
-                <%= link_to list_favorite_path(list,@favorite), method: :delete %>
-                  <i class="fas fa-star"></i>
+                <%= link_to list_favorite_path(list,@favorite), method: :delete do %>
+                  <%= icon('fas','heart',class: 'liked icon') %>
+                <% end%>
               <% else %>
-                <%= link_to list_favorites_path(list), method: :post %>
-                  <i class="far fa-star"></i>
+                <%= link_to list_favorites_path(list), method: :post do %>
+                  <%= icon('far','heart',class: 'not-liked icon') %>
+                <% end%>
               <% end %>
             </div>
           </div>
