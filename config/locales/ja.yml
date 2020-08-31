@@ -9,3 +9,4 @@ ja:
   helpers:
     submit:
       update: "更新する"
+      create: "保存する"
