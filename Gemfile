@@ -43,12 +43,12 @@ end
 
 group :development do
   # Access an interactive console on exception pages or by calling 'console' anywhere in the code.
-  gem 'web-console', '>= 3.3.0'
   gem 'listen', '>= 3.0.5', '< 3.2'
+  gem 'web-console', '>= 3.3.0'
   # Spring speeds up development by keeping your application running in the background. Read more: https://github.com/rails/spring
+  gem 'pry-rails'
   gem 'spring'
   gem 'spring-watcher-listen', '~> 2.0.0'
-  gem 'pry-rails'
 end
 
 group :test do
@@ -63,10 +63,10 @@ end
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem 'bootstrap', '~> 4.3.1'
-gem 'jquery-rails'
-gem 'font-awesome-sass', '~> 5.9.0'
-gem 'devise'
-gem 'pg', group: :production
 gem 'carrierwave'
+gem 'devise'
+gem 'font-awesome-sass', '~> 5.9.0'
+gem 'jquery-rails'
 gem 'mini_magick'
-
+gem 'pg', group: :production
+gem 'rubocop', require: false

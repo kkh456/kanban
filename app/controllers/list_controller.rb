@@ -31,11 +31,13 @@ class ListController < ApplicationController
   end
 
   private
+
     def list_params
       params.require(:list).permit(:title).merge(user: current_user)
     end
 
   protected
+
     def update_resource(resource, params)
       resource.update_without_password(params)
     end
