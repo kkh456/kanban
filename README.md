@@ -1,3 +1,6 @@
+# README
+![freephoto-site-1-1](https://user-images.githubusercontent.com/67891642/91828455-1f63fb00-ec7b-11ea-9ea6-e055fc046581.jpg)
+
 ・アプリ名
 kanban
 
