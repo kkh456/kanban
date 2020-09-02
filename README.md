@@ -19,7 +19,7 @@ javascriptを使った非同期通信でドラック&ドロップ操作でカー
 
 ・本番環境(デプロイ先　テストアカウント＆ID)
 本番環境デプロイ先　https://enigmatic-headland-21063.herokuapp.com/
-テストアカウント＆ID　アカウント名test1　password 1234567
+テストアカウント＆ID　アカウント名test1　password 1234567 mail test1@test
 
 ・制作背景(意図)
 　⇒どんな課題や不便なことを解決するためにこのアプリを作ったのか。
