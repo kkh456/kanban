@@ -1,5 +1,6 @@
 # README
 <img width="1680" alt="スクリーンショット 2020-09-02 13 49 14" src="https://user-images.githubusercontent.com/67891642/91937935-f8b2cc80-ed2d-11ea-9751-9b85feb74a49.png">
+<img width="1680" alt="スクリーンショット 2020-09-02 13 50 01" src="https://user-images.githubusercontent.com/67891642/91938406-eab17b80-ed2e-11ea-8189-2dfaca76431e.png">
 
 ・アプリ名
 kanban
