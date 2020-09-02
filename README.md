@@ -1,5 +1,9 @@
 # README
-![freephoto-site-1-1](https://user-images.githubusercontent.com/67891642/91828455-1f63fb00-ec7b-11ea-9ea6-e055fc046581.jpg)
+<img width="1680" alt="スクリーンショット 2020-09-02 13 49 14" src="https://user-images.githubusercontent.com/67891642/91933126-1e86a400-ed23-11ea-83f1-28a3254eab69.png">
+
+<img width="1680" alt="スクリーンショット 2020-09-02 13 50 01" src="https://user-images.githubusercontent.com/67891642/91933167-3c540900-ed23-11ea-90ad-d4cd98d1f511.png">
+
+<img width="1680" alt="スクリーンショット 2020-09-02 13 51 18" src="https://user-images.githubusercontent.com/67891642/91933243-686f8a00-ed23-11ea-885b-3869d78f7b36.png">
 
 ・アプリ名
 kanban
